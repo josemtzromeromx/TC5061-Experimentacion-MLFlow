@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+mlops/
+
+# MLflow
+mlflow.db
+mlruns/
+mlartifacts/
+
+# Logs
+*.log
